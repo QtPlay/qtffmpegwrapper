@@ -1,4 +1,4 @@
-# QTFFmpegWrapper
+# QTFFmpegWrapper ![(Logo)](https://raw.githubusercontent.com/scribblemaniac/qtffmpegwrapper/master/logo.png)
 
 QT wrapper classes for FFmpeg.
 
