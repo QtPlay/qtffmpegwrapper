@@ -1,0 +1,6 @@
+Simple encoder/decoder demo.
+
+Check the .pro file to see how the wrapper is included in the project and set-up.
+
+
+Make sure the ffmpeg dlls are in the path, otherwise the program will crash on start. Alternatively copy the dlls in the debug or release directory.
